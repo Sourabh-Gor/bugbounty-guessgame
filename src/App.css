@@ -98,3 +98,6 @@ input[type="number"] {
   color:orangered;
   margin-bottom: 10px;
 }
+.container.won {
+  background-color: lightgreen;
+}

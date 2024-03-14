@@ -21,6 +21,7 @@ const NumberInput = ({ onSubmit }) => {
         onChange={handleChange}
         placeholder="Enter your guess"
         className='inputfield'
+        required
       />
       <button type="submit" className='button'>Submit</button>
     </form>
